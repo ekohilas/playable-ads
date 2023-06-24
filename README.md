@@ -2,10 +2,11 @@
 
 ## Evan Kohilas
 
-### Linux Conference Australia 2020
-
-
-### [Pycon Australia 2020](https://pretalx.com/pycon-au-2020/talk/8TA7ZA/)
+| Conference | Video | Notes |
+|------------|:-----:|:-----:|
+| [Linux Conf Australia 2020](https://lca2020.linux.org.au/) | [🔗](https://www.youtube.com/watch?v=euG2yr2nXO4) | [🔗](https://web.archive.org/web/20200812083335/https://lca2020.linux.org.au/schedule/presentation/102/) |
+| [Pycon Australia 2020](https://2020.pycon.org.au/) | [🔗](https://www.youtube.com/watch?v=c5QIPbrk92Q) | [🔗](https://2020.pycon.org.au/program/8TA7ZA/) |
+| [Technically Games 2020](https://2020.technicallygames.com.au/) | [🔗](https://www.youtube.com/watch?v=ROJKVGj_mYc) | [🔗](https://2020.technicallygames.com.au/talks/hacking-playable-ads-what-really-are-they/) |
 
 #### Abstract
 Have you ever clicked the 💎 **FREE GEMS** 💎 button and been served an ad, only to find you're now trialing a game?
